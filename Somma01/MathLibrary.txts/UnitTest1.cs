@@ -9,6 +9,7 @@ namespace MathLibrary.txts
         [TestMethod]
         public void TestMethod1()
         {
+            
         }
     }
 }

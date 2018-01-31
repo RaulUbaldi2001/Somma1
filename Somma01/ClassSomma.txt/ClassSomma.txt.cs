@@ -8,7 +8,7 @@ namespace ClassSomma.txt
 {
     public class Calc
     {
-        static int Somma1 (int a, int b)
+        static int Somma01 (int a, int b)
         {
             int somma = 0;
             somma = a + b;
